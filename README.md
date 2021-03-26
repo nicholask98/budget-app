@@ -1,5 +1,5 @@
 # Budget App
-*First project using classes.
+* First project using classes.
 
 ## The Challenge:
 
