@@ -14,3 +14,4 @@
 
 ### Key concepts: 
 - Class initialization, instance methods and instance representation. Defining and using functions that take class instances as input parameters.
+
